@@ -2,7 +2,7 @@
 
 I made this website all by myself, so any feedback is appreciated! 
 
-(it took me like 5 hours to make this because it required a lot of coding!)
+(it took me like 5 hours to make this because I was learning how to use github.)
 
 
 
