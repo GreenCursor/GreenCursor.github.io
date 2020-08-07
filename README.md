@@ -14,4 +14,4 @@ I will add more things to the website eventually. So be patient!
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. My Business email: Ohkenobi420@gmail.com (if you have any problems with the website loading or etc.) My Discord username: FaultyCable#6969 (if you can't email me.)
 Ok well time to commit the changes and see the website have a "glowup" 
-https://github.com/GreenCursor/GreenCursor.github.io/master/ivan.jpg?raw=true
+![alt text](https://github.com/GreenCursor/GreenCursor.github.io/master/ivan.jpg?raw=true)
